@@ -10,7 +10,6 @@ function SongCard({name, id, removeSong}){
               "Accepts": `application/json`
             }  
         })
-        
         .then(resp => resp.json())
         .then(data => removeSong(id))
     }
