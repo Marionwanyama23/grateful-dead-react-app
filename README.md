@@ -23,4 +23,3 @@ Resources used:
 
 Medium.com
 Youtube.com
-Vanilla JS, CSS, React, and Ruby
