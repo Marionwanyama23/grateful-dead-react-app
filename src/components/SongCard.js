@@ -14,7 +14,6 @@ function SongCard({name, id, removeSong}){
         .then(data => removeSong(id))
     }
 
-
     return (
             <article key={id}>
                 {name}<button onClick={handleDelete}>Delete</button>
