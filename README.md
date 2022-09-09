@@ -22,4 +22,3 @@ Here is a blog i wrote about understanding errors in your code: https://taulantf
 Resources used:
 
 Medium.com
-Youtube.com
