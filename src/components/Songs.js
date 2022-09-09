@@ -13,7 +13,7 @@ function Songs(){
         .then(resp => setSongs(resp.songs))
     },[])
     
-    
+
     function addNewSong(newSong){
         const addNewSong = [...songs, newSong]
         setSongs(addNewSong)
@@ -32,8 +32,6 @@ function Songs(){
         </div>
     )
 }
-
-
 
 
 export default Songs
