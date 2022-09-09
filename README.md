@@ -15,5 +15,3 @@ How to Acess:
 
 Supplemental guides:
 
-Here is a video explanation of my project: https://www.youtube.com/watch?v=LjlR9f44_00&ab_channel=TaulantHakaj
-
