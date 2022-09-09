@@ -21,7 +21,6 @@ function Form({addNewSong}){
         window.location.reload()      
     }  
       
-    
     function handleChange(event){
         setName(event.target.value)
     }
