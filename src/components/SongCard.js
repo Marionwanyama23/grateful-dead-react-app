@@ -4,7 +4,6 @@ function SongCard({name, id, removeSong}){
     console.log(id)
     function handleDelete(event){
         fetch(`http://localhost:9393/songs/${id}`, {
-            
             method: "DELETE",
             headers: {
               'Content-Type': 'application/json',
