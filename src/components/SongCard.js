@@ -1,6 +1,5 @@
 import React from "react"
 
-
 function SongCard({name, id, removeSong}){
     console.log(id)
     function handleDelete(event){
