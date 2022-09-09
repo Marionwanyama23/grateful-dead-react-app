@@ -13,5 +13,4 @@ How to Acess:
 6. Once they've been installed the required gems run the command shotgun to start the backend server.
 7. Once both files are running you will be able to use the application as intended.
 
-Supplemental guides:
 
