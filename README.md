@@ -20,5 +20,3 @@ Here is a video explanation of my project: https://www.youtube.com/watch?v=LjlR9
 Here is a blog i wrote about understanding errors in your code: https://taulantfhakaj.medium.com/understanding-error-messages-faebe4e0b391
 
 Resources used:
-
-Medium.com
